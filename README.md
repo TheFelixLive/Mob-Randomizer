@@ -1,8 +1,17 @@
 # Mob Randomizer
-Comming Soon
+<img src="https://github.com/user-attachments/assets/bed6a58b-e2ae-41a2-ac20-588404ec447c" width="1920" height="auto" />
 
 ## About
-This Minecraft Challenge simply swaps all Minecraft creatures
+This Minecraft Challenge simply swaps all Minecraft creatures. Who saw that coming?
+
+---
+
+## Good to know
+Before you start the challenge, you can enter a seed into which mobs they will transform.
+If you want you know...
+
+<img src="https://github.com/user-attachments/assets/285d5c1c-c039-4ad6-ac5c-e88f0a471f11" width="1920" height="auto" />
+
 
 # Installation
 > [!NOTE]
