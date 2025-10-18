@@ -1,0 +1,42 @@
+{
+  "format_version": 2,
+  "header": {
+      "description": "This Minecraft Challenge simply swaps all Minecraft creatures",
+      "name": "Mob Randomizer",
+      "uuid": "a0295f55-cc32-43da-af55-22e6cd006777",
+      "version": [ 1, 0, 0],
+      "min_engine_version": [1, 21, 90]
+  },
+  "modules": [
+    {
+        "description": "",
+        "type": "data",
+        "uuid": "e98b6d67-04d1-43ff-961d-0778a6bb97c0",
+        "version": [1, 0, 0]
+    },
+    {
+      "description": "",
+        "type": "script",
+        "uuid": "1b02b9cb-ce8b-4f86-b06c-8a9633598228",
+        "version": [1, 0, 0],
+        "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name":"@minecraft/server",
+      "version":"2.0.0"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "2.0.0"
+    },
+    {
+      "uuid": "c4d3852f-f902-4807-a8c8-51980fdae4c3",
+      "version": [ 5, 4, 2]
+    }
+ ],
+  "metadata": {
+    "product_type": "addon"
+  }
+}
